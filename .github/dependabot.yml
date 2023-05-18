@@ -8,4 +8,4 @@ updates:
   - package-ecosystem: "pip" # See documentation for possible values; python packge manager
     directory: "/" # Location of package manifests
     schedule:
-      interval: "weekly"
+      interval: "daily"
